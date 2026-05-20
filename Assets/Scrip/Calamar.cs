@@ -86,7 +86,6 @@ public class Calamar : MonoBehaviour
                 spriteRenderer.sprite = rescuedSprite;
             }
             RescueManager.instance.AddRescue();
-            Debug.Log("Pulpo rescatado");
         }
     }
 }

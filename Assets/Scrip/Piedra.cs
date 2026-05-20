@@ -73,8 +73,6 @@ public class SpikeRock : MonoBehaviour
             }
 
             RescueManager.instance.AddRescue();
-
-            Debug.Log("Piedra espina rescatada");
         }
     }
 }
